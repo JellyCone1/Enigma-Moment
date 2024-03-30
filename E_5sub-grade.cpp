@@ -2,6 +2,8 @@
 
 using namespace std;
 
+float total(float*);
+
 int main(){
     float marks[5];
     cout<<"Enter your marks: "<<endl;
